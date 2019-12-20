@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "558075990391",
+    "firebase_url": "https://joomlaconnect-28817.firebaseio.com",
+    "project_id": "joomlaconnect-28817",
+    "storage_bucket": "joomlaconnect-28817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558075990391:android:e48a915bd7b8c088",
+        "android_client_info": {
+          "package_name": "org.nrobert.joomlaconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPOyKcAl7d7eqox6DxdzLAvW5HO-dcWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558075990391-us42au74hd3pq141uag4h9ee1dlmrpgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JMobile</string>
+    <string name="dash_board">JMobile</string>
+    <string name="log_in">JMobile - Log in</string>
+    <string name="log_out">JMobile - Log out</string>
+    <string name="register">JMobile - Registration</string>
+    <string name="sign_up">JMobile - Sign up</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_https">Https</string>
+    <string name="prompt_domain">Domain</string>
+    <string name="prompt_login">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_protocol">Invalid protocol</string>
+    <string name="error_invalid_domain">Invalid domain</string>
+    <string name="error_invalid_login">Invalid login</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="error_incorrect_credentials">One or more credentials are not valid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permission is needed for autocompletion</string>
+    <string name="full_name">Full name</string>
+    <string name="confirm_password">Please confirm password</string>
+    <string name="already_having_account">Already have an account?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_having_account">Not have an account yet?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="welcome">Welcome, %s!</string>
+    <string name="not_logged_out">%s, you are not logged out.</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="msg_token_old" translatable="false">Old Token: %s</string>
+</resources>

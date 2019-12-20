@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_register">Регистрация</string>
+    <string name="action_sign_in">Вход</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_domain">Домен</string>
+    <string name="prompt_login">Логин</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="error_invalid_email">Email не корректен</string>
+    <string name="error_invalid_domain">Домен не корректен</string>
+    <string name="error_invalid_login">Логин не корректен</string>
+    <string name="error_invalid_password">Пароль не корректен</string>
+    <string name="error_incorrect_credentials">Домен или учетные данные неверны!</string>
+    <string name="error_field_required">Это поле обязательно к заполнению!</string>
+    <string name="permission_rationale">Разрешение к контактам необходимо для поиска email.</string>
+    <string name="sign_up">JMobile - Регистрация</string>
+    <string name="register">JMobile - Регистрация</string>
+    <string name="full_name">ФИО</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="already_having_account">У вас уже есть учетная запись?</string>
+    <string name="username">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="not_having_account">Еще нет учетной записи?</string>
+    <string name="error_invalid_protocol">Протокол не корретен</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="action_sign_out">Выход</string>
+    <string name="log_in">JMobile - Вход</string>
+    <string name="log_out">JMobile - Выход</string>
+    <string name="action_sign_up">Регистрация</string>
+    <string name="welcome">Добро пожаловать, %s!</string>
+    <string name="not_logged_out">%s, вы еще не вышли.</string>
+</resources>
